@@ -1,0 +1,4 @@
+com\mycompany\formularioservlet_hectorlagarda\JakartaRestConfiguration.class
+com\mycompany\formularioservlet_hectorlagarda\resources\JakartaEE10Resource.class
+model\Usuario.class
+controller\FormularioServlet.class
